@@ -225,4 +225,29 @@
     <string name="theme_hive">خلية النحل</string>
     <string name="theme_bloom">إزهار</string>
     <string name="theme_graphite">الجرافيت</string>
+
+    <string name="elevated_method_shizuku" translatable="false">Shizuku</string>
+    <string name="elevated_method_root" translatable="false">Root</string>
+    <string name="elevated_root_hint">هذا الهاتف يحتوي على صلاحيات Root، لذا يمكن تشغيل Elevated من خلالها بدلًا من ذلك، دون الحاجة إلى الاقتران. وسيعمل مجددًا تلقائيًا بعد إعادة التشغيل أو عند الابتعاد عن شبكة Wi-Fi. ويمنحه ذلك الأذونات نفسها التي يوفرها تصحيح الأخطاء اللاسلكي.</string>
+    <string name="elevated_running_root">مفعّل عبر Root: تعمل فأرة الكمبيوتر ولوحة مفاتيحه مثل شاشة لمس ولوحة مفاتيح حقيقيتين.</string>
+    <string name="elevated_root_failed">لم يُسمح باستخدام Root، أو أن مدير صلاحيات Root لا يستطيع تشغيل أداة NectarLink المساعدة كمستخدم shell. في KernelSU أو APatch، أضف NectarLink أولًا إلى قائمة Superuser ثم حاول مجددًا. أو أعد الإعداد باستخدام تصحيح الأخطاء اللاسلكي.</string>
+    <string name="elevated_shizuku_hint">تطبيق Shizuku مثبّت، لذا يمكن تشغيل Elevated من خلاله بدلًا من ذلك. لن يحتاج إلى اقتران منفصل، وسيواصل العمل خارج نطاق Wi-Fi ما دام Shizuku يعمل. ويمنحه ذلك الأذونات نفسها التي يوفرها تصحيح الأخطاء اللاسلكي.</string>
+    <string name="elevated_running_shizuku">مفعّل عبر Shizuku: تعمل فأرة الكمبيوتر ولوحة مفاتيحه مثل شاشة لمس ولوحة مفاتيح حقيقيتين.</string>
+    <string name="elevated_shizuku_waiting">بانتظار Shizuku. شغّله في تطبيق Shizuku، ثم افتح NectarLink.</string>
+    <string name="elevated_shizuku_not_running">Shizuku لا يعمل. شغّله في تطبيق Shizuku، ثم حاول مجددًا.</string>
+    <string name="elevated_shizuku_denied">لم يسمح Shizuku لـ NectarLink بالوصول. اسمح له من داخل Shizuku، وحدّث التطبيق إذا كان قديمًا، ثم حاول مجددًا.</string>
+    <string name="elevated_shizuku_root">يعمل Shizuku باستخدام Root، بينما يشغّل Elevated أداته المساعدة بصلاحيات مستخدم shell فقط. شغّل Shizuku باستخدام تصحيح الأخطاء اللاسلكي، أو استخدم Root.</string>
+    <string name="elevated_open_shizuku">فتح Shizuku</string>
+    <string name="elevated_steps">ستصل إلى الكمبيوتر أيضًا رموز الاستخدام لمرة واحدة التي يخفيها Android باعتبارها حساسة داخل الإشعارات.\n\n1. فعّل خيارات المطوّر: افتح الإعدادات ثم حول الهاتف، واضغط على رقم الإصدار 7 مرات.\n2. من خيارات المطوّر، فعّل تصحيح الأخطاء اللاسلكي عبر Wi-Fi، وافتحه واضغط على إقران جهاز باستخدام رمز الاقتران.\n3. اكتب الرمز المكوّن من 6 أرقام في إشعار NectarLink دون إغلاق شاشة الرمز.</string>
+    <string name="elevated_pair_collapsed">اسحب هذا الإشعار إلى الأسفل (أو اضغط عليه مطولًا في هواتف Xiaomi)، ثم اضغط على إدخال الرمز.</string>
+    <string name="elevated_no_dialog">رمز الاقتران غير ظاهر. من شاشة تصحيح الأخطاء اللاسلكي، اضغط على إقران جهاز باستخدام رمز الاقتران، ثم اكتب الرمز هنا.</string>
+    <plurals name="app_windows_title">
+        <item quantity="one">تطبيق واحد مفتوح في نافذة على الكمبيوتر</item>
+        <item quantity="two">تطبيقان مفتوحان في نافذتين على الكمبيوتر</item>
+        <item quantity="few">%1$d تطبيقات مفتوحة في نوافذ على الكمبيوتر</item>
+        <item quantity="many">%1$d تطبيقًا مفتوحًا في نوافذ على الكمبيوتر</item>
+        <item quantity="other">%1$d تطبيق مفتوح في نافذة على الكمبيوتر</item>
+    </plurals>
+    <string name="app_windows_text">تظهر على %1$s. تعمل التطبيقات هنا بجانب ما يظهر على شاشتك.</string>
+
 </resources>
