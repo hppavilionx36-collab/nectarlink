@@ -282,4 +282,36 @@
     <string name="update_downloading">جارٍ التنزيل…</string>
     <string name="update_downloading_progress">جارٍ التنزيل · %1$s من %2$s</string>
 
+
+    <string name="settings_clipboard_passwords">مزامنة كلمات المرور المنسوخة</string>
+    <string name="settings_clipboard_passwords_hint">يرسل أيضًا المحتوى الذي تصنّفه تطبيقات إدارة كلمات المرور على أنه خاص. يُحذف من حافظة الكمبيوتر بعد دقيقة، ولا يُحفظ مطلقًا في السجل.</string>
+    <string name="settings_clipboard_suggestions">اقتراح إجراءات للنص المنسوخ</string>
+    <string name="settings_clipboard_suggestions_hint">اقترح إجراءات للنصوص القادمة من الكمبيوتر، مثل فتح الروابط والخرائط وإجراء المكالمات وتتبع الطرود وإرسال البريد الإلكتروني.</string>
+    <string name="clip_received_from">تم النسخ من %1$s</string>
+    <string name="clip_action_open">فتح</string>
+    <string name="clip_action_maps">فتح في الخرائط</string>
+    <string name="clip_action_call">اتصال</string>
+    <string name="clip_action_track">تتبّع</string>
+    <string name="clip_action_email">بريد إلكتروني</string>
+    <string name="background_title">ابقَ متاحًا أثناء العمل في الخلفية</string>
+    <string name="background_text">أوقف Android تطبيق NectarLink لتوفير البطارية، لذلك لا يستطيع الكمبيوتر الوصول إلى هاتفك. اسمح للتطبيق بالعمل في الخلفية.</string>
+    <string name="background_on">السماح بالبقاء متصلًا في الخلفية</string>
+    <string name="settings_background_title">الخلفية والبطارية</string>
+    <string name="settings_run_in_background">العمل في الخلفية</string>
+    <string name="settings_run_in_background_hint">يبقي هذا الهاتف متاحًا للاتصال من الكمبيوتر. عند إيقافه، لن يتصل NectarLink إلا أثناء فتح التطبيق، ويختفي الإشعار.</string>
+    <string name="update_waiting_network">بانتظار الاتصال. سيواصل التنزيل من حيث توقف.</string>
+    <string name="update_installing">جارٍ التثبيت. قد يطلب منك Android تأكيد العملية.</string>
+    <string name="update_not_allowed">اسمح لـ NectarLink بتثبيت تحديثاته. سيواصل التحديث عند عودتك.</string>
+    <string name="update_damaged">تلف الملف الذي تم تنزيله، لذلك لم يُثبّت. حاول مجددًا.</string>
+    <string name="update_offline">تعذّر تنزيل التحديث. حاول مجددًا عند الاتصال بالإنترنت.</string>
+    <string name="update_install_failed">لم يتمكن Android من تثبيت التحديث. حاول مجددًا.</string>
+    <string name="update_whats_new">ما الجديد</string>
+    <string name="update_check">التحقق من وجود تحديثات</string>
+    <string name="update_checking">جارٍ التحقق من وجود تحديثات…</string>
+    <string name="update_up_to_date_version">NectarLink %1$s محدّث إلى آخر إصدار.</string>
+    <string name="update_current_version">لديك NectarLink %1$s.</string>
+    <string name="update_check_failed">تعذّر التحقق من وجود تحديثات. تحقق من اتصالك بالإنترنت.</string>
+    <string name="action_lock_pc">قفل الكمبيوتر</string>
+    <string name="action_sleep_pc">وضع السكون</string>
+
 </resources>
