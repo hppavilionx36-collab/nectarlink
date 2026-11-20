@@ -314,4 +314,59 @@
     <string name="action_lock_pc">قفل الكمبيوتر</string>
     <string name="action_sleep_pc">وضع السكون</string>
 
+
+    <string name="link_opened_on">تم الفتح على %1$s</string>
+    <string name="link_pick_pc">على أي كمبيوتر تريد الفتح؟</string>
+    <string name="channel_pc_tasks">المهام على الكمبيوتر</string>
+    <string name="channel_pc_tasks_running">المهام قيد التشغيل على الكمبيوتر</string>
+    <string name="task_running_on">قيد التشغيل على %1$s</string>
+    <string name="channel_connection">الاتصال</string>
+    <string name="channel_ringing">العثور على هاتفي</string>
+    <string name="notification_connected_to">متصل بـ %1$s</string>
+    <plurals name="notification_connected_pcs">
+        <item quantity="one">متصل بكمبيوتر واحد</item>
+        <item quantity="two">متصل بكمبيوترين</item>
+        <item quantity="few">متصل بـ %1$d أجهزة كمبيوتر</item>
+        <item quantity="many">متصل بـ %1$d جهاز كمبيوتر</item>
+        <item quantity="other">متصل بـ %1$d كمبيوتر</item>
+    </plurals>
+    <string name="notification_waiting">بانتظار الكمبيوتر</string>
+    <string name="notification_waiting_network">بانتظار شبكة Wi-Fi للوصول إلى الكمبيوتر</string>
+    <string name="notification_not_paired">لم يتم إقران الهاتف بأي كمبيوتر بعد</string>
+    <plurals name="transfer_files">
+        <item quantity="one">ملف واحد</item>
+        <item quantity="two">ملفان</item>
+        <item quantity="few">%1$d ملفات</item>
+        <item quantity="many">%1$d ملفًا</item>
+        <item quantity="other">%1$d ملف</item>
+    </plurals>
+    <plurals name="transfer_items">
+        <item quantity="one">عنصر واحد</item>
+        <item quantity="two">عنصران</item>
+        <item quantity="few">%1$d عناصر</item>
+        <item quantity="many">%1$d عنصرًا</item>
+        <item quantity="other">%1$d عنصر</item>
+    </plurals>
+    <string name="action_remote_pc">التحكم بالكمبيوتر</string>
+    <string name="action_back">رجوع</string>
+    <string name="settings_remote">التحكم في الكمبيوتر</string>
+    <string name="settings_volume_keys_control_pc">أزرار الصوت تتحكم في الكمبيوتر</string>
+    <string name="settings_volume_keys_control_pc_hint">عندما يشغّل الكمبيوتر موسيقى أو فيديو، تتحكم أزرار الصوت في الهاتف بمستوى صوت الكمبيوتر.</string>
+    <string name="settings_quiet_while_using_pc">كتم صوت الهاتف أثناء استخدام الكمبيوتر</string>
+    <string name="settings_quiet_while_using_pc_hint">لن يصدر هاتفك أصوات الإشعارات أو اهتزازاتها أثناء استخدامك كمبيوتر مقترنًا يعرض هذه الإشعارات.</string>
+    <string name="settings_hide_from_recents">إخفاء من التطبيقات الأخيرة</string>
+    <string name="settings_hide_from_recents_hint">يبقى NectarLink خارج شاشة التطبيقات الأخيرة، حتى لا تغلقه عن طريق الخطأ عند مسح تلك الشاشة.</string>
+    <string name="settings_assist_on_demand">تشغيل المساعدة فقط أثناء استخدام الكمبيوتر للهاتف</string>
+    <string name="settings_assist_on_demand_hint">عند إعداد Elevated، تعمل خدمة Assist عندما يعرض الكمبيوتر شاشة الهاتف أو يكتب عليه، ثم تتوقف بعد قليل. يفيد ذلك مع التطبيقات التي لا تفتح أثناء تشغيل خدمة تسهيلات الاستخدام.</string>
+    <string name="settings_touchpad_sensitivity">سرعة لوحة اللمس</string>
+    <string name="settings_touchpad_sensitivity_value">%1$.1f×</string>
+    <string name="remote_mode_touchpad">لوحة اللمس</string>
+    <string name="remote_mode_air">فأرة هوائية</string>
+    <string name="remote_mode_presentation">العرض التقديمي</string>
+    <string name="remote_touchpad_hint">اسحب لتحريك المؤشر · اضغط للنقر · استخدم إصبعين للنقر بزر الفأرة الأيمن أو للتمرير · انقر مرتين مع الاستمرار للسحب</string>
+    <string name="remote_air_hold">اضغط باستمرار للتوجيه نحو %1$s</string>
+    <string name="remote_air_active">التحكم على %1$s · أمل الهاتف أو اضغط للنقر</string>
+    <string name="remote_air_hint">اضغط باستمرار على اللوحة وأمل الهاتف لتحريك المؤشر · اضغط للنقر · اسحب بإصبعين للتمرير</string>
+    <string name="gamepad_open">وحدة تحكم للألعاب</string>
+
 </resources>
