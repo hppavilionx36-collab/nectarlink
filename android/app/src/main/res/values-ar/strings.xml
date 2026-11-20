@@ -250,4 +250,36 @@
     </plurals>
     <string name="app_windows_text">تظهر على %1$s. تعمل التطبيقات هنا بجانب ما يظهر على شاشتك.</string>
 
+
+    <string name="home_background_off_title">الاتصال في الخلفية متوقف</string>
+    <string name="home_background_off_text">يتصل NectarLink فقط عندما يكون التطبيق مفتوحًا. فعّل هذا الخيار ليظل هاتفك متاحًا للاتصال من الكمبيوتر.</string>
+    <string name="battery_open_oem_settings">إعدادات البطارية</string>
+    <string name="battery_guide_samsung">في هواتف Samsung: افتح معلومات التطبيق ثم البطارية واختر «بلا قيود». ومن العناية بالجهاز، افتح البطارية ثم حدود الاستخدام في الخلفية، وتأكد من عدم وضع NectarLink في وضع السكون مطلقًا.</string>
+    <string name="battery_guide_xiaomi">في هواتف Xiaomi وHyperOS وMIUI: فعّل التشغيل التلقائي لـ NectarLink، ثم افتح معلومات التطبيق واختَر «بلا قيود» ضمن موفّر البطارية.</string>
+    <string name="battery_guide_oneplus">في هواتف OnePlus وOxygenOS: افتح معلومات التطبيق ثم استخدام البطارية، وفعّل السماح بالنشاط في الخلفية والسماح بالتشغيل التلقائي.</string>
+    <string name="battery_guide_oppo_realme">في هواتف Oppo وRealme: افتح معلومات التطبيق ثم استخدام البطارية، وفعّل السماح بالنشاط في الخلفية والسماح بالتشغيل التلقائي.</string>
+    <string name="battery_guide_vivo">في هواتف Vivo وFuntouch وOriginOS: افتح معلومات التطبيق ثم البطارية، واختر «بلا قيود» (استهلاك مرتفع للطاقة في الخلفية)، واسمح بالتشغيل التلقائي.</string>
+    <string name="battery_guide_huawei">في هواتف Huawei وHonor: افتح تشغيل التطبيقات من مدير الهاتف، وأوقف «الإدارة التلقائية» لـ NectarLink، واترك التشغيل التلقائي والتشغيل الثانوي والعمل في الخلفية مفعّلة.</string>
+    <string name="battery_guide_pixel">في هواتف Pixel: افتح معلومات التطبيق ثم استخدام بطارية التطبيق، واضغط على السماح باستخدام البطارية في الخلفية واختر «بلا قيود».</string>
+    <string name="hive_invite_title">جرّب سمة خلية النحل الجديدة</string>
+    <string name="hive_invite_text">ألوان العسل على خلفية فحمية أو شمع دافئ، مع خلية نحل متحركة خلف التطبيق. يمكنك تغيير السمة في أي وقت من الإعدادات.</string>
+    <string name="hive_invite_try">جرّب خلية النحل</string>
+    <string name="hive_invite_dismiss">ليس الآن</string>
+    <string name="star_channel">مشروع NectarLink</string>
+    <string name="star_title">هل أعجبك NectarLink؟</string>
+    <string name="star_text">اضغط لإضافة نجمة للمشروع على GitHub. هذا يساعد الآخرين في العثور عليه.</string>
+    <string name="support_title">ادعم NectarLink</string>
+    <string name="support_body">NectarLink مجاني ومفتوح المصدر. إذا سهّل عليك بعض أمور يومك، يمكنك المساعدة في استمرار المشروع. شكرًا لك!</string>
+    <string name="support_action">دعم</string>
+    <string name="settings_comb_motion">خلية نحل متحركة</string>
+    <string name="settings_comb_motion_hint">تتحرك خلايا النحل بنبضات هادئة. تتوقف الحركة عند تفعيل إزالة الرسوم المتحركة أو موفّر البطارية.</string>
+    <string name="about_version">NectarLink %1$s</string>
+    <string name="unpair_title">إلغاء اقتران %1$s؟</string>
+    <string name="unpair_text">سينسى كل جهاز الآخر. يمكنك إقرانهما مجددًا في أي وقت.</string>
+    <string name="core_failed">تعذّر تشغيل NectarLink: %1$s</string>
+    <string name="update_title">يتوفر NectarLink %1$s</string>
+    <string name="update_text">احصل على أحدث التحسينات والإصلاحات.</string>
+    <string name="update_downloading">جارٍ التنزيل…</string>
+    <string name="update_downloading_progress">جارٍ التنزيل · %1$s من %2$s</string>
+
 </resources>
