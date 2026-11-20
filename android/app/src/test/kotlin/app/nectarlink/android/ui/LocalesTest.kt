@@ -70,6 +70,9 @@ class LocalesTest {
         assertEquals("pt-BR", AppLanguage.normalize("pt"))
         assertEquals("pt-BR", AppLanguage.normalize("pt-Latn-BR"))
         assertEquals("", AppLanguage.normalize("pt-PT"))
+        assertEquals("ar", AppLanguage.normalize("ar"))
+        assertEquals("ar", AppLanguage.normalize("ar-LY"))
+        assertEquals("ar", AppLanguage.normalize("ar-SA"))
     }
 
     @Test
