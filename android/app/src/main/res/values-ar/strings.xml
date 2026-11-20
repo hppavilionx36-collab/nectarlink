@@ -369,4 +369,46 @@
     <string name="remote_air_hint">اضغط باستمرار على اللوحة وأمل الهاتف لتحريك المؤشر · اضغط للنقر · اسحب بإصبعين للتمرير</string>
     <string name="gamepad_open">وحدة تحكم للألعاب</string>
 
+
+    <string name="remote_slide_black">شاشة سوداء</string>
+    <string name="remote_laser_hold">اضغط باستمرار لاستخدام مؤشر الليزر</string>
+    <string name="remote_laser_active">مؤشر الليزر على %1$s · أمل الهاتف أو اسحب هنا</string>
+    <string name="remote_volume_hint">تتحكم أزرار الصوت أيضًا في الشرائح أثناء فتح هذه الشاشة.</string>
+    <string name="remote_mode_screen">الشاشة</string>
+    <string name="pc_mirror_connecting">جارٍ الاتصال بـ %1$s…</string>
+    <string name="pc_mirror_capture_failed">فشلت مشاركة الشاشة. أزل قفل الكمبيوتر، وتحقق من أذونات المشاركة، ثم حاول مجددًا.</string>
+    <string name="pc_mirror_fullscreen">ملء الشاشة</string>
+    <string name="pc_mirror_exit_fullscreen">إنهاء وضع ملء الشاشة</string>
+    <string name="pc_mirror_right_click">نقرة بزر الفأرة الأيمن</string>
+    <string name="pc_mirror_task_view">عرض المهام</string>
+    <string name="pc_mirror_keyboard">لوحة المفاتيح</string>
+    <string name="pc_mirror_hide_keyboard">إخفاء المفاتيح</string>
+    <string name="pc_mirror_enter">إدخال</string>
+    <string name="pc_mirror_backspace">مسح للخلف</string>
+    <string name="pc_mirror_quality_720p">720p</string>
+    <string name="pc_mirror_quality_1080p">1080p</string>
+    <string name="pc_mirror_quality_desc">جودة البث: %1$s</string>
+    <string name="pc_mirror_viewport_desc">شاشة %1$s</string>
+    <string name="action_record_pc">تسجيل</string>
+    <string name="channel_recorder">مسجل الصوت</string>
+    <string name="channel_mic">ميكروفون الكمبيوتر</string>
+    <string name="channel_mic_requests">طلبات استخدام الميكروفون</string>
+    <string name="mic_notification_title">الميكروفون يعمل لصالح %1$s</string>
+    <string name="mic_notification_text">يستقبل الكمبيوتر الصوت من ميكروفون هذا الهاتف.</string>
+    <string name="channel_call_audio">صوت المكالمة على الكمبيوتر</string>
+    <string name="call_audio_notification_title">صوت المكالمة على %1$s</string>
+    <string name="call_audio_notification_text">تتحدث وتستمع عبر الكمبيوتر.</string>
+    <string name="call_audio_back">العودة إلى الهاتف</string>
+    <string name="mic_request_title">%1$s يريد استخدام ميكروفون هذا الهاتف</string>
+    <string name="mic_request_text">اضغط للبدء. سيظل الميكروفون يعمل حتى توقفه أنت أو الكمبيوتر.</string>
+    <string name="mic_request_start">بدء</string>
+    <string name="mic_request_card_text">سيظل الميكروفون يعمل حتى توقفه أنت أو الكمبيوتر.</string>
+    <string name="mic_pc_toggle">استخدام هذا الهاتف كميكروفون</string>
+    <string name="mic_pc_toggle_hint">مفعّل افتراضيًا. يمكن لهذا الكمبيوتر طلب استخدام الميكروفون، لكنه لا يعمل إلا بعد ضغطك على «بدء».</string>
+    <string name="mic_pc_toggle_hint_auto">مفعّل افتراضيًا. يمكن لهذا الكمبيوتر طلب استخدام الميكروفون، وسيعمل فورًا عند الطلب.</string>
+    <string name="start_without_asking_toggle">تشغيل الكاميرا والميكروفون دون طلب الإذن</string>
+    <string name="start_without_asking_hint">عندما يطلب هذا الكمبيوتر تشغيلهما، سيعملان فورًا دون الحاجة إلى الضغط على الهاتف. يتطلب ذلك Elevated. من دونه، سيطلب الهاتف الإذن كالمعتاد.</string>
+    <string name="mirror_ask_toggle">طلب الإذن قبل مشاركة شاشتي</string>
+    <string name="mirror_ask_hint">ينتظر هذا الكمبيوتر موافقتك في كل مرة يريد فيها عرض شاشتك. عند إيقاف هذا الخيار، يشارك Elevated الشاشة فورًا.</string>
+
 </resources>
