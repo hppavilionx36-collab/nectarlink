@@ -25,6 +25,7 @@ object AppLanguage {
         "es" to "Español",
         "ru" to "Русский",
         "pl" to "Polski",
+        "ar" to "العربية",
     )
 
     /** Whether the phone lets the app pick its own language. */
@@ -63,6 +64,7 @@ object AppLanguage {
             lower == "es" || lower.startsWith("es-") -> "es"
             lower == "ru" || lower.startsWith("ru-") -> "ru"
             lower == "pl" || lower.startsWith("pl-") -> "pl"
+            lower == "ar" || lower.startsWith("ar-") -> "ar"
             else -> ""
         }
     }
