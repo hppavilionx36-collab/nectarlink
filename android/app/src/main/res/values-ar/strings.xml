@@ -411,4 +411,46 @@
     <string name="mirror_ask_toggle">طلب الإذن قبل مشاركة شاشتي</string>
     <string name="mirror_ask_hint">ينتظر هذا الكمبيوتر موافقتك في كل مرة يريد فيها عرض شاشتك. عند إيقاف هذا الخيار، يشارك Elevated الشاشة فورًا.</string>
 
+
+    <string name="pc_audio_unmute">إلغاء كتم الصوت</string>
+    <string name="pc_audio_muted">الصوت مكتوم</string>
+    <string name="pc_audio_output">مخرج الصوت: %1$s</string>
+    <string name="pc_audio_outputs_title">مخارج الصوت على %1$s</string>
+    <string name="pc_audio_default_badge">افتراضي</string>
+    <string name="pc_audio_outputs_hint">اضغط على أحد المخارج لتشغيل صوت %1$s من خلاله.</string>
+    <string name="pc_audio_use_phone_speaker">استخدام الهاتف كمكبر صوت</string>
+    <string name="pc_audio_use_phone_speaker_sub">تشغيل صوت الكمبيوتر على هذا الهاتف</string>
+    <string name="pc_audio_use_phone_speaker_on">جارٍ بث صوت الكمبيوتر إلى هذا الهاتف</string>
+    <string name="pc_audio_use_phone_mic">استخدام الهاتف كميكروفون</string>
+    <string name="pc_audio_use_phone_mic_sub">إرسال صوت ميكروفون الهاتف إلى الكمبيوتر</string>
+    <string name="pc_audio_use_phone_mic_on">يستقبل الكمبيوتر الصوت من ميكروفون هذا الهاتف</string>
+    <string name="storage_all_files_title">الوصول إلى جميع الملفات</string>
+    <string name="storage_all_files_on">مفعّل. يمكن لأجهزة الكمبيوتر التي تسمح لها تصفح ملفات هذا الهاتف وفتحها ونسخها من مستكشف الملفات.</string>
+    <string name="storage_all_files_off">تصفّح مجلدات هذا الهاتف من مستكشف الملفات على الكمبيوتر. يتطلب ذلك إذن الوصول إلى جميع الملفات، أو اختيار مجلدات محددة أدناه.</string>
+    <string name="storage_saf_title">المجلدات المحددة فقط</string>
+    <string name="storage_saf_hint">شارك المجلدات التي تختارها فقط.</string>
+    <string name="storage_add_folder">إضافة مجلد</string>
+    <string name="storage_remove_folder">إزالة</string>
+    <string name="storage_pc_toggle">تصفّح مساحة تخزين الهاتف من مستكشف الملفات</string>
+    <string name="storage_pc_toggle_hint">متوقف افتراضيًا. يسمح لهذا الكمبيوتر بعرض الملفات التي تشاركها وفتحها ورفعها وإعادة تسميتها وحذفها.</string>
+    <string name="storage_request_title">%1$s يريد تصفّح مساحة تخزين هذا الهاتف</string>
+    <string name="storage_request_text">هل تسمح لـ %1$s بتصفّح مساحة التخزين التي تشاركها (أو المجلدات المحددة) من مستكشف الملفات؟</string>
+    <string name="action_not_now">ليس الآن</string>
+    <string name="action_webcam_pc">كاميرا ويب</string>
+    <string name="channel_webcam">كاميرا ويب</string>
+    <string name="channel_webcam_requests">طلبات استخدام كاميرا الويب</string>
+    <string name="webcam_notification_streaming">جارٍ بث الكاميرا إلى %1$s</string>
+    <string name="webcam_notification_detail">%1$d × %2$d · كاميرا %3$s</string>
+    <string name="webcam_request_title">%1$s يريد استخدام الكاميرا</string>
+    <string name="webcam_request_text">اضغط لفتح أدوات التحكم بالكاميرا وبدء البث.</string>
+    <string name="webcam_permission_title">السماح بالوصول إلى الكاميرا</string>
+    <string name="webcam_permission_text">يستخدم NectarLink الكاميرا فقط أثناء بث الفيديو إلى %1$s لاستخدامها ككاميرا ويب.</string>
+    <string name="webcam_allow_camera">السماح بالكاميرا</string>
+    <string name="webcam_status_connecting">جارٍ توصيل الكاميرا بـ %1$s…</string>
+    <string name="webcam_status_ready">جاهزة للبث إلى %1$s</string>
+    <string name="webcam_start">بدء كاميرا الويب</string>
+    <string name="webcam_stop">إيقاف كاميرا الويب</string>
+    <string name="webcam_camera_back">الخلفية</string>
+    <string name="webcam_camera_front">الأمامية</string>
+
 </resources>
